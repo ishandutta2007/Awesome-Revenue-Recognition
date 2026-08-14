@@ -1,5 +1,9 @@
 # Awesome-Revenue-Recognition
 
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Revenue Recognition Banner" width="100%">
+</div>
+
 ## Top Revenue Recognition Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
