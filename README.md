@@ -1,48 +1,39 @@
-# Awesome-Revenue-Recognition
+# 🌟 Awesome-Revenue-Recognition
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome Revenue Recognition Banner" width="100%">
 </div>
 
-## Top Revenue Recognition Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+## 📊 Top Revenue Recognition Platforms Ecosystem
 
-*Focused on ASC 606 / IFRS 15 Compliance, Deferred Revenue, SSP Allocation, Contract Modifications & Automated Revenue Schedules*
+**Curated List of SaaS Products & Open-Source GitHub Projects for Automated Revenue Accounting**
+
+*Focused on ASC 606 / IFRS 15 Compliance, Deferred Revenue, SSP Allocation, Contract Modifications, and Automated Revenue Schedules. Optimize your financial close and revenue operations.*
 
 **Last updated: August 2026**
 
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Revenue Recognition**. These systems automate the identification of performance obligations, allocation of transaction price (including Standalone Selling Price - SSP), timing of revenue recognition (point-in-time or over-time), contract modifications, variable consideration, and generation of compliant journal entries and waterfalls under ASC 606 and IFRS 15 frameworks.
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Revenue Recognition**. These systems automate the identification of performance obligations, allocation of transaction price (including SSP), timing of revenue recognition (point-in-time or over-time), contract modifications, variable consideration, and generation of compliant journal entries and waterfalls under ASC 606 and IFRS 15.
-
-
-
-**Examples** include Zuora, Chargebee, Sage Intacct, Oracle NetSuite, Certinia, Chargezoom, Leapfin, RightRev, Sequence, and Trullion (the category leaders).
-
-
+**Enterprise Examples** include Zuora, Chargebee, Sage Intacct, Oracle NetSuite, Certinia, Chargezoom, Leapfin, RightRev, Sequence, and Trullion (the category leaders).
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted billing, revenue schedule engines, Odoo modules, educational ASC 606/IFRS 15 implementations, and open monetization platforms that can support or feed revenue recognition workflows — ideal for finance engineers, SaaS companies, and organizations seeking transparency and control over complex revenue accounting.
 
+Contributions are welcome! Open a PR to add or update entries. Keep descriptions factual, SEO-friendly, and link to official sites.
 
+## 📑 Table of Contents
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+- [🏢 SaaS/Hosted Platforms](#saas-products)
+- [💻 Open-Source GitHub Projects](#open-source-github-projects)
+- [🛠️ How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Description | Company Size | Pricing | Free Tier Limit |
 |---------|-------------|--------------|---------|-----------------|
@@ -57,140 +48,80 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Sequence](https://www.sequencehq.com/)** | Modern billing and monetization platform with revenue-related capabilities for usage and subscription businesses. | ~$15M (Valuation) | Starting at $799/month | Live demo available (no free trial/tier) |
 | **[Chargezoom](https://www.chargezoom.com/)** | Billing and payment solutions that support recurring revenue operations and can integrate with broader revenue recognition workflows. | ~$10M (Valuation) | Starting at $20/month | Free forever plan (pay per payment processed) |
 
-
-
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)
-
   Open-source metering, usage-based billing, and subscription management platform with revenue analytics that can feed downstream rev-rec processes.
 
-
-
 - **[Dolibarr ERP CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
-
   A comprehensive open-source ERP/CRM suite that covers accounting, invoicing, orders, and stocks, suitable for businesses of all sizes.
 
-
-
 - **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
-
   Mature open-source subscription billing and payments platform that provides the transactional foundation many teams extend for custom revenue recognition logic.
 
-
-
 - **[Bigcapital](https://github.com/bigcapitalhq/bigcapital)** [![GitHub stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)
-
   An open-source accounting and inventory management system designed as an alternative to proprietary software like QuickBooks or Xero.
 
-
-
 - **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)
-
   An infrastructure-focused project for pricing and billing, offering subscription management, invoicing, and revenue analytics.
 
-
-
 - **[Python-Accounting](https://github.com/ekmungai/python-accounting)** [![GitHub stars](https://img.shields.io/github/stars/ekmungai/python-accounting?style=social&color=white)](https://github.com/ekmungai/python-accounting/stargazers)
-
   A double-entry accounting library/system with a strong focus on IFRS-compliant reporting.
 
-
-
 - **[UniBee](https://github.com/unibee-billing)** [![GitHub stars](https://img.shields.io/github/stars/unibee-billing/unibee?style=social&color=white)](https://github.com/unibee-billing/unibee/stargazers)
-
   Open-source recurring billing and payment management system with admin and user portals suitable for self-hosted subscription operations.
 
-
-
 - **[Odoo / SSI Revenue Recognition modules](https://github.com/open-synergy/ssi-revenue-recognition)** [![GitHub stars](https://img.shields.io/github/stars/open-synergy/ssi-revenue-recognition?style=social&color=white)](https://github.com/open-synergy/ssi-revenue-recognition/stargazers)
-
   Community and specialized Odoo addons implementing performance obligations, revenue recognition schedules, project integration, and related accounting features.
 
-
-
 - **[Revbot and concept revenue APIs](https://github.com/birchpoplar/revbot)** [![GitHub stars](https://img.shields.io/github/stars/birchpoplar/revbot?style=social&color=white)](https://github.com/birchpoplar/revbot/stargazers)
-
   Experimental open-source APIs and platforms for modeling customers, contracts, revenue segments, and recognition schedules in a SaaS-like construct.
 
-
-
 - **[eRev / ASC 606 calculation engines](https://github.com/)**  
-
   Open-sourced revenue recognition calculation frameworks supporting multi-year SSP allocation, variable consideration, contract modifications, versioning, and journal entry generation.
 
-
-
 - **[IFRS 15 / ASC 606 educational prototypes](https://github.com/)**  
-
   FastAPI and notebook-based showcases that implement the five-step model, performance obligations, residual allocation, and revenue schedules with synthetic data.
 
-
-
 - **[Open billing & monetization platforms (Meteroid, Opencell, etc.)](https://github.com/)**  
-
   Additional open-source or open-core billing engines that handle subscriptions, usage, and invoicing — providing clean inputs for custom or ERP-based revenue recognition.
 
-
-
 - **[Revenue waterfall & reporting scripts](https://github.com/)**  
-
   Community tools and notebooks that transform CRM or billing data into ASC 606-style revenue waterfall reports and schedules.
 
-
-
 - **[InvoiceShelf and self-hosted invoicing](https://invoiceshelf.com/)**  
-
   Open-source self-hosted invoicing and recurring billing solutions that can serve as the operational layer feeding recognition processes.
 
-
-
-### Additional Strong Open-Source Options
+### ➕ Additional Strong Open-Source Options
 
 - Custom Python/SQL engines that implement the five-step revenue recognition model on top of open billing data.
-
 - ERP community modules (Odoo, ERPNext, and similar) with deferred revenue and contract accounting features.
-
 - Spreadsheet-to-code migrations of SSP allocation and modification logic for auditability.
-
 - Integration patterns that push open billing events into NetSuite, Sage, or other ERPs via APIs.
-
 - AI-assisted IFRS/ASC knowledge bases and checklists that help validate policy application.
-
-
 
 **Frameworks for building custom systems**: Use an open billing platform (**Kill Bill**, **Lago**, or **UniBee**) as the source of contracts and invoices, implement or adopt an open ASC 606 / IFRS 15 calculation layer (eRev-style or educational engines), generate schedules and journal entries, and post into an open or commercial general ledger. Orchestrate with dbt or custom pipelines, store versioned contracts for audit, and use local LLMs for policy explanation and modification impact analysis.
 
-
-
-## How to Contribute
+## 🛠️ How to Contribute
 
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
 
+⭐ Star the repo if you find it useful!
 
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - Revenue recognition under ASC 606 and IFRS 15 is a highly regulated accounting domain. Open-source tools are typically educational, partial, or foundational; they do not replace professional judgment, audited systems, or formal compliance frameworks.
-
 - Self-hosted solutions handling financial data must meet security, auditability, and internal control requirements appropriate for your organization and jurisdiction.
-
-
 
 ---
 
 **Made for finance teams, SaaS controllers, revenue accountants, and engineers building transparent monetization and recognition systems.**
 
 Let's make revenue recognition more open, auditable, and automation-friendly.
+
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Revenue-Recognition&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Revenue-Recognition&type=date&legend=top-left)
