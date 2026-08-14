@@ -57,27 +57,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Kill Bill](https://github.com/killbill/killbill)**  
-
-  Mature open-source subscription billing and payments platform that provides the transactional foundation many teams extend for custom revenue recognition logic.
-
-
-
-- **[Lago](https://github.com/getlago/lago)**  
+- **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)
 
   Open-source metering, usage-based billing, and subscription management platform with revenue analytics that can feed downstream rev-rec processes.
 
 
 
-- **[UniBee](https://github.com/unibee-billing)**  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
+
+  Mature open-source subscription billing and payments platform that provides the transactional foundation many teams extend for custom revenue recognition logic.
+
+
+
+- **[UniBee](https://github.com/unibee-billing)** [![GitHub stars](https://img.shields.io/github/stars/unibee-billing/unibee?style=social&color=white)](https://github.com/unibee-billing/unibee/stargazers)
 
   Open-source recurring billing and payment management system with admin and user portals suitable for self-hosted subscription operations.
 
 
 
-- **[Odoo / SSI Revenue Recognition modules](https://github.com/open-synergy/ssi-revenue-recognition)**  
+- **[Odoo / SSI Revenue Recognition modules](https://github.com/open-synergy/ssi-revenue-recognition)** [![GitHub stars](https://img.shields.io/github/stars/open-synergy/ssi-revenue-recognition?style=social&color=white)](https://github.com/open-synergy/ssi-revenue-recognition/stargazers)
 
   Community and specialized Odoo addons implementing performance obligations, revenue recognition schedules, project integration, and related accounting features.
+
+
+
+- **[Revbot and concept revenue APIs](https://github.com/birchpoplar/revbot)** [![GitHub stars](https://img.shields.io/github/stars/birchpoplar/revbot?style=social&color=white)](https://github.com/birchpoplar/revbot/stargazers)
+
+  Experimental open-source APIs and platforms for modeling customers, contracts, revenue segments, and recognition schedules in a SaaS-like construct.
 
 
 
@@ -90,12 +96,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[IFRS 15 / ASC 606 educational prototypes](https://github.com/)**  
 
   FastAPI and notebook-based showcases that implement the five-step model, performance obligations, residual allocation, and revenue schedules with synthetic data.
-
-
-
-- **[Revbot and concept revenue APIs](https://github.com/birchpoplar/revbot)**  
-
-  Experimental open-source APIs and platforms for modeling customers, contracts, revenue segments, and recognition schedules in a SaaS-like construct.
 
 
 
