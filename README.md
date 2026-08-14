@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Zuora](https://www.zuora.com/)**  
-
-  Enterprise revenue and subscription platform with deep ASC 606 / IFRS 15 capabilities (Zuora Revenue) for complex multi-element arrangements, usage-based models, and high-volume processing.
-
-
-
-- **[Chargebee](https://www.chargebee.com/)**  
-
-  Subscription billing platform with Chargebee RevRec for automated ASC 606 / IFRS 15 revenue recognition, deferred revenue management, and finance automation tailored to SaaS.
-
-
-
-- **[Sage Intacct](https://www.sage.com/en-us/products/sage-intacct/)**  
-
-  Cloud financial management system with strong mid-market revenue recognition features, multi-element support, and automated revenue schedules.
-
-
-
-- **[Oracle NetSuite](https://www.netsuite.com/)**  
-
-  ERP platform offering Advanced Revenue Management (ARM) for ASC 606 compliance, revenue schedules, and integrated order-to-cash and revenue processes.
-
-
-
-- **[Certinia](https://certinia.com/)**  
-
-  Professional services and ERP cloud platform (formerly FinancialForce) with revenue recognition, billing, and project-based accounting capabilities.
-
-
-
-- **[Chargezoom](https://www.chargezoom.com/)**  
-
-  Billing and payment solutions that support recurring revenue operations and can integrate with broader revenue recognition workflows.
-
-
-
-- **[Leapfin](https://www.leapfin.com/)**  
-
-  AI-powered revenue automation platform that transforms transaction and billing data into ERP-ready journal entries and accelerates the close.
-
-
-
-- **[RightRev](https://www.rightrev.com/)**  
-
-  Dedicated revenue recognition engine focused on policy-driven ASC 606 / IFRS 15 automation, SSP allocation, and complex contract handling for growth-stage to enterprise SaaS.
-
-
-
-- **[Sequence](https://www.sequencehq.com/)**  
-
-  Modern billing and monetization platform with revenue-related capabilities for usage and subscription businesses.
-
-
-
-- **[Trullion](https://trullion.com/)**  
-
-  AI-powered platform for revenue recognition and lease accounting, helping finance and audit teams with ASC 606 / IFRS 15 and related compliance.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Zuora](https://www.zuora.com/)** | Enterprise revenue and subscription platform with deep ASC 606 / IFRS 15 capabilities (Zuora Revenue) for complex multi-element arrangements, usage-based models, and high-volume processing. | Starting at ~$75,000/year | No free tier (Free Essentials training tier only) |
+| **[Chargebee](https://www.chargebee.com/)** | Subscription billing platform with Chargebee RevRec for automated ASC 606 / IFRS 15 revenue recognition, deferred revenue management, and finance automation tailored to SaaS. | Starting at $599/month | Free until $250,000 in cumulative billing |
+| **[Sage Intacct](https://www.sage.com/en-us/products/sage-intacct/)** | Cloud financial management system with strong mid-market revenue recognition features, multi-element support, and automated revenue schedules. | Starting at ~$9,000/year | 30-day free trial via personalized sample company |
+| **[Oracle NetSuite](https://www.netsuite.com/)** | ERP platform offering Advanced Revenue Management (ARM) for ASC 606 compliance, revenue schedules, and integrated order-to-cash and revenue processes. | Starting at ~$999/month + $99/user/mo | 14-day free trial via certified partners |
+| **[Certinia](https://certinia.com/)** | Professional services and ERP cloud platform (formerly FinancialForce) with revenue recognition, billing, and project-based accounting capabilities. | Starting at ~$100,000/year | 30-day trial for specific add-on modules only |
+| **[Chargezoom](https://www.chargezoom.com/)** | Billing and payment solutions that support recurring revenue operations and can integrate with broader revenue recognition workflows. | Starting at $20/month | Free forever plan (pay per payment processed) |
+| **[Leapfin](https://www.leapfin.com/)** | AI-powered revenue automation platform that transforms transaction and billing data into ERP-ready journal entries and accelerates the close. | Starting at $1,000/month | Interactive demo available (no free trial/tier) |
+| **[RightRev](https://www.rightrev.com/)** | Dedicated revenue recognition engine focused on policy-driven ASC 606 / IFRS 15 automation, SSP allocation, and complex contract handling for growth-stage to enterprise SaaS. | Starting at $2,500/month | Live demo available (no free trial/tier) |
+| **[Sequence](https://www.sequencehq.com/)** | Modern billing and monetization platform with revenue-related capabilities for usage and subscription businesses. | Starting at $799/month | Live demo available (no free trial/tier) |
+| **[Trullion](https://trullion.com/)** | AI-powered platform for revenue recognition and lease accounting, helping finance and audit teams with ASC 606 / IFRS 15 and related compliance. | Starting at ~$3,000/year | Live demo available (no free trial/tier) |
 
 
 
