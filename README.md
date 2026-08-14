@@ -63,9 +63,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+- **[Dolibarr ERP CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+
+  A comprehensive open-source ERP/CRM suite that covers accounting, invoicing, orders, and stocks, suitable for businesses of all sizes.
+
+
+
 - **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
 
   Mature open-source subscription billing and payments platform that provides the transactional foundation many teams extend for custom revenue recognition logic.
+
+
+
+- **[Bigcapital](https://github.com/bigcapitalhq/bigcapital)** [![GitHub stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)
+
+  An open-source accounting and inventory management system designed as an alternative to proprietary software like QuickBooks or Xero.
+
+
+
+- **[Meteroid](https://github.com/meteroid-oss/meteroid)** [![GitHub stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=social&color=white)](https://github.com/meteroid-oss/meteroid/stargazers)
+
+  An infrastructure-focused project for pricing and billing, offering subscription management, invoicing, and revenue analytics.
+
+
+
+- **[Python-Accounting](https://github.com/ekmungai/python-accounting)** [![GitHub stars](https://img.shields.io/github/stars/ekmungai/python-accounting?style=social&color=white)](https://github.com/ekmungai/python-accounting/stargazers)
+
+  A double-entry accounting library/system with a strong focus on IFRS-compliant reporting.
 
 
 
